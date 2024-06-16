@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ping-frontend/static/css/main.cf76badd.css",
+    "main.js": "/ping-frontend/static/js/main.2db68b77.js",
+    "static/js/453.a0f87c28.chunk.js": "/ping-frontend/static/js/453.a0f87c28.chunk.js",
+    "index.html": "/ping-frontend/index.html",
+    "main.cf76badd.css.map": "/ping-frontend/static/css/main.cf76badd.css.map",
+    "main.2db68b77.js.map": "/ping-frontend/static/js/main.2db68b77.js.map",
+    "453.a0f87c28.chunk.js.map": "/ping-frontend/static/js/453.a0f87c28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf76badd.css",
+    "static/js/main.2db68b77.js"
+  ]
+}
