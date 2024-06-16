@@ -1,0 +1,27 @@
+.message-container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.createdAt {
+    text-align: right;
+}
+
+.scrollable-container {
+    max-height: 600px; /* Adjust the height as per your design */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border: 1px solid #ccc; /* Optional: Add a border for clarity */
+    padding: 20px; /* Optional: Add padding for better spacing */
+    width: 700px;
+    margin: 30px;
+    border-radius: 5px;
+  }
+
+.parent{
+    display: flex;
+    justify-content: center;
+}
